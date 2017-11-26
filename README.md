@@ -1,1 +1,1 @@
-# JavaProject
+Boggle game
